@@ -12,6 +12,24 @@
 
 ### MVC
 
+MVC - Model, View, Controller
+
+General flow of Rails application:
+
+1. Request made from browser
+
+2. Request received at router of rails application
+
+3. Request routed to appropriate action in a controller
+
+4. Controller#action either renders a view template or communicates with model
+
+5. Model communicates with database
+
+6. Model sends back information to controller
+
+7. Controller renders view
+
 #### Models
 
 * User
@@ -36,3 +54,5 @@
 * comment_controller
 
 ...etc
+
+
