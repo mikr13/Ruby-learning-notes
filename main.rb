@@ -1,3 +1,5 @@
+# To run interactive ruby shell, execute `irb` in shell
+
 # basic printing & returning
 # print 'Hello world' # no new line
 # puts 'Hello world' # new line
