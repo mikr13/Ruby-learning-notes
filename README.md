@@ -7,6 +7,7 @@
 * https://rubyonrails.org/ (Rails overview)
 * https://github.com/rails/rails (Rails source code)
 * https://github.com/heartcombo/devise (Ex: Devise gem GitHub repository)
+* https://rvm.io/ (Ruby installation) (for gpg: `brew install gpg` & replace `gpg2` with `gpg`)
 
 ## Ruby on rails concepts
 
